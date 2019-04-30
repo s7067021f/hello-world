@@ -1,5 +1,2 @@
-another new line
-
-git
-edit text
-new line
+test1
+test2
